@@ -9,9 +9,6 @@ Proyecto base para el desarrollo del backend de una aplicación usando **Spring 
 - 🧾 Descripción del Proyecto
 - 🚀 Tecnologías Utilizadas
 - ⚙️ Configuración del Proyecto
-- 📡 Endpoints REST
-- 👥 Equipo de Desarrollo
-- ✅ Estado de las Tareas
 
 ---
 
