@@ -6,7 +6,7 @@ Proyecto base para el desarrollo del backend de una aplicación usando **Spring 
 
 ## 📚 Contenido
 
-- [🧾 Descripción del Proyecto](#🧾-descripción-del-proyecto)
+- [🧾 Descripción del Proyecto]
 - [🚀 Tecnologías Utilizadas](#🚀-tecnologías-utilizadas)
 - [⚙️ Configuración del Proyecto](#⚙️-configuración-del-proyecto)
 - [📂 Estructura de Carpetas](#📂-estructura-de-carpetas)
