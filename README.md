@@ -6,13 +6,12 @@ Proyecto base para el desarrollo del backend de una aplicación usando **Spring 
 
 ## 📚 Contenido
 
-- [🧾 Descripción del Proyecto]
-- [🚀 Tecnologías Utilizadas](#🚀-tecnologías-utilizadas)
-- [⚙️ Configuración del Proyecto](#⚙️-configuración-del-proyecto)
-- [📂 Estructura de Carpetas](#📂-estructura-de-carpetas)
-- [📡 Endpoints REST](#📡-endpoints-rest)
-- [👥 Equipo de Desarrollo](#👥-equipo-de-desarrollo)
-- [✅ Estado de las Tareas](#✅-estado-de-las-tareas)
+- 🧾 Descripción del Proyecto
+- 🚀 Tecnologías Utilizadas
+- ⚙️ Configuración del Proyecto
+- 📡 Endpoints REST
+- 👥 Equipo de Desarrollo
+- ✅ Estado de las Tareas
 
 ---
 
