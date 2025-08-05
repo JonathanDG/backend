@@ -1,6 +1,6 @@
 # 📦 Spring Boot API Backend
 
-Proyecto base para el desarrollo del backend de una aplicación usando **Spring Boot**, **Spring Data JPA** y **MySQL**. Este repositorio es parte del **Proyecto Final** e implementa la API REST con operaciones CRUD, conexión a base de datos y estructura modular siguiendo buenas prácticas.
+Proyecto base para el desarrollo del backend de una aplicación usando **Spring Boot**, **Spring Data JPA** y **MySQL**. Este repositorio es parte del **Proyecto** e implementa la API REST con operaciones CRUD, conexión a base de datos y estructura modular siguiendo buenas prácticas.
 
 ---
 
