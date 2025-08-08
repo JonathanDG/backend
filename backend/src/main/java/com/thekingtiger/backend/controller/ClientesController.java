@@ -1,3 +1,4 @@
+
 package com.thekingtiger.backend.controller;
 
 import com.thekingtiger.backend.model.Clientes;
@@ -23,3 +24,4 @@ public class ClientesController {
     public List<Clientes> getClientes(){return clientesService.getClientes();}
 
 }
+

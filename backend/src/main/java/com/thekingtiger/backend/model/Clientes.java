@@ -6,31 +6,30 @@ import jakarta.persistence.*;
 import java.util.Objects;
 
 @Entity
-@Table(name = "Clientes")
+@Table(name = "clientes")
 public class Clientes {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "idClientes")
-    private Integer id;
+    private int id;
 
-    @Column(length = 45, nullable = false)
+    @Column(name = "nomCliente", nullable = false)
     private String nombreCliente;
 
-    @Column(length = 45, nullable = false)
+    @Column(name = "apellidoCliente",nullable = false)
     private String apellidoCliente;
 
-    @Column(length = 45, nullable = false, unique = true)
+    @Column(name = "correoCliente", nullable = false )
     private String correoCliente;
 
-    @Column(length = 45, nullable = false)
+    @Column(name = "direccionCliente", nullable = false)
     private String direccionCliente;
 
-    @Column(length = 45, nullable = false)
+    @Column(name = "telefonoCliente", nullable = false)
     private String telefonoCliente;
 
-    @Column(length = 45, nullable = false)
+    @Column(name = "contraseniaCliente",nullable = false)
     private String contraseniaCliente;
-
 
     public Clientes(){
 
