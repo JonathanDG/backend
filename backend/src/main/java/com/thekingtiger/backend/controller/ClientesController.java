@@ -1,5 +1,5 @@
-package com.thekingtiger.backend.controller;
 
+package com.thekingtiger.backend.controller;
 
 import com.thekingtiger.backend.model.Clientes;
 import com.thekingtiger.backend.service.ClientesService;
@@ -23,5 +23,5 @@ public class ClientesController {
     @GetMapping("/clientes")
     public List<Clientes> getClientes(){return clientesService.getClientes();}
 
-
 }
+
