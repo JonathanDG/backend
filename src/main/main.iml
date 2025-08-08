@@ -12,5 +12,6 @@
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:3.5.4" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-jpa:3.5.2" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:6.2.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:6.2.9" level="project" />
   </component>
 </module>
